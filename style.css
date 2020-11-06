@@ -53,8 +53,13 @@ body {
     align-items: center;
     flex-direction: column;
     background-color: white ;
+<<<<<<< HEAD
     width: 70%;
     padding: 1.1rem 0;
+=======
+    width: 62%;
+    padding: 1.3rem 0;
+>>>>>>> d57f521d32fb246351fb634bf0e31dde6e92d01a
     border: 1px solid lightgray;
 }
 
@@ -118,7 +123,7 @@ body {
 
 .download {
     display: flex;
-    width: 100%;
+    width: 65%;
     justify-content: space-evenly;
     align-items: center;
     padding: 1rem;
@@ -131,7 +136,12 @@ body {
 }
 
 .app-download:nth-child(1){
+<<<<<<< HEAD
     background-image: url('./imagens/appple.png');
+=======
+    background-image: url('./appple.png');
+    
+>>>>>>> d57f521d32fb246351fb634bf0e31dde6e92d01a
 }
 
 .app-download:nth-child(2){
